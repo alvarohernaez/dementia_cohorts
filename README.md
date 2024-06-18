@@ -7,4 +7,4 @@
 
 ## Syntax available
 Available files: 
-- syntax_github: syntax for survival analyses
+- syntax_github: syntax for analyses
