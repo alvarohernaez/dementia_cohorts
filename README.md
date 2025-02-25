@@ -1,10 +1,23 @@
-# Biomarkers and predictive indicators of dementia risk in PREDIMED
+# Manuscript: Circulating neuroinflammation biomarkers and risk of dementia: a case-cohort study
 ## Authors
-- Álvaro Hernáez
+- Marta Biarnés-Martínez
 - Mireia Malcampo
+- Álvaro Hernáez
+- Emilio Ros
+- Dolores Corella
+- Miguel Ángel Martínez-González
+- Jordi Salas-Salvadó
+- Juan Timiraos
+- Enrique Gómez Gracia
+- Miquel Fiol
+- Ramon Estruch
+- José Lapetra
+- Lluís Serra Majem
+- Xavier Pintó
+- Albert Puig-Pijoan
 - Montserrat Fitó
 - Olga Castañer
 
 ## Syntax available
 Available files: 
-- syntax_github: syntax for analyses
+- syntax_neuroinflammation: syntax for analyses
